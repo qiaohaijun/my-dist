@@ -1,5 +1,7 @@
 前两天看到了谷歌的一个分布式git的产品。
 
+http://www.infoq.com/cn/news/2016/02/google-kick-starts-git-ketch?utm_campaign=rightbar_v2&utm_source=infoq&utm_medium=news_link&utm_content=link_text
+
 ---
 
 为什么需要个分布式的git
