@@ -2,13 +2,16 @@
 
 http://www.infoq.com/cn/news/2016/02/google-kick-starts-git-ketch?utm_campaign=rightbar_v2&utm_source=infoq&utm_medium=news_link&utm_content=link_text
 
----
+**谷歌启动容错Git管理系统项目：Git Ketch**
 
-为什么需要个分布式的git
 
----
+
+### 为什么需要个分布式的git
+
 
 这个问题其实很简单，为了不让宝贵的代码化作乌有。
+
+还有就是现在的代码是越来越多了。
 
 ---
 
